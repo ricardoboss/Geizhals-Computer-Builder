@@ -9,6 +9,7 @@
       </q-toolbar>
 
       <q-tabs align="left">
+        <q-route-tab to="/" label="Home" />
         <q-route-tab to="/build" label="Build"/>
       </q-tabs>
     </q-header>
